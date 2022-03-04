@@ -34,10 +34,10 @@ The base URL for your backend is: `http://localhost:3110`
 
 As a user, I should be able to:
 
-- See all the details of the songs rendered in `SongList`.
-- Add a song from the `SongList` to `Setlist` by clicking on it. The selected song should render in the `Setlist` component. The song can be added only **once**. The item **does not** disappear from the `SongList`.
-- Remove a song from `Setlist` by clicking on it. The song should disappear from the `Setlist` component.
-- Remove a song forever </\3 by clicking the delete button at the bottom of the each `Song`. This should delete the song from both the backend and the frontend.
+- DONE -- See all the details of the songs rendered in `SongList`.
+- DONE -- Add a song from the `SongList` to `Setlist` by clicking on it. The selected song should render in the `Setlist` component. The song can be added only **once**. The item **does not** disappear from the `SongList`.
+- DONE -- Remove a song from `Setlist` by clicking on it. The song should disappear from the `Setlist` component.
+- DONE -- Remove a song forever </\3 by clicking the delete button at the bottom of the each `Song`. This should delete the song from both the backend and the frontend.
 
 ### Endpoints for Core Deliverables
 
